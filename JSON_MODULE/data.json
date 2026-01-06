@@ -1,0 +1,9 @@
+{
+    "name" : "Daisy Panimariyal",
+    "isStudent" : true,
+    "address" : {
+        "city" : "Coimbatore",
+        "country" : "India"
+    },
+    "subjects" : ["Python","AI","ML","DL","NLP","Algebra","Calculus"]
+}
