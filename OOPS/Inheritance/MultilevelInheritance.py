@@ -2,11 +2,11 @@ class A:
     def m1(self):
         print("A")
 
-class B:
+class B(A):
     def m2(self):
         print("B")
 
-class C:
+class C(B):
     def m3(self):
         print("C")
 
